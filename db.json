@@ -1,0 +1,206 @@
+{
+    "shops": [
+      {
+        "id": "0",
+        "name": "Sample Shop",
+        "description": "Sample description",
+        "logo": "https://images.pexels.com/photos/2344267/pexels-photo-2344267.jpeg"
+      },
+      {
+        "id": "98e6",
+        "name": "My shop",
+        "description": "C'est ma boutique",
+        "logo": "https://images.pexels.com/photos/2344267/pexels-photo-2344267.jpeg"
+      },
+      {
+        "id": "1",
+        "name": "Duka la Kiswahili",
+        "description": "A traditional Swahili shop offering local handcrafted items.",
+        "logo": "https://images.pexels.com/photos/2081199/pexels-photo-2081199.jpeg",
+        "products": [
+          {
+            "id": 1,
+            "name": "Kikapu cha Mpunga",
+            "price": 1200,
+            "stockLevel": 10,
+            "description": "Handwoven rice baskets made by local artisans.",
+            "image": "https://images.pexels.com/photos/994517/pexels-photo-994517.jpeg"
+          },
+          {
+            "id": 2,
+            "name": "Vitu vya Mapambo",
+            "price": 3500,
+            "stockLevel": 0,
+            "description": "Decorative wooden carvings.",
+            "image": "https://images.pexels.com/photos/1866149/pexels-photo-1866149.jpeg"
+          },
+          {
+            "id": 3,
+            "name": "Shati la Kitenge",
+            "price": 2500,
+            "stockLevel": 3,
+            "description": "Brightly colored Kitenge shirts.",
+            "image": "https://images.pexels.com/photos/2081199/pexels-photo-2081199.jpeg"
+          },
+          {
+            "id": 1748275448570,
+            "name": "Book",
+            "price": 500,
+            "stockLevel": 5,
+            "description": "Affirmations Book",
+            "image": "https://images.pexels.com/photos/261909/pexels-photo-261909.jpeg"
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "name": "Mboga Fresh",
+        "description": "A local market for fresh produce and organic foods.",
+        "logo": "https://images.pexels.com/photos/277352/pexels-photo-277352.jpeg",
+        "products": [
+          {
+            "id": 4,
+            "name": "Spinachi",
+            "price": 500,
+            "stockLevel": 30,
+            "description": "Fresh spinach sourced from local farms.",
+            "image": "https://images.pexels.com/photos/277352/pexels-photo-277352.jpeg"
+          },
+          {
+            "id": 5,
+            "name": "Tomato za Asili",
+            "price": 800,
+            "stockLevel": 5,
+            "description": "Fresh, organic tomatoes grown without pesticides.",
+            "image": "https://images.pexels.com/photos/128420/pexels-photo-128420.jpeg"
+          },
+          {
+            "id": 6,
+            "name": "Biringanya",
+            "price": 600,
+            "stockLevel": 12,
+            "description": "Fresh eggplants for grilling and frying.",
+            "image": "https://images.pexels.com/photos/5945704/pexels-photo-5945704.jpeg"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "name": "Mavazi Mazuri",
+        "description": "A clothing store offering modern and stylish fashion.",
+        "logo": "https://images.pexels.com/photos/994517/pexels-photo-994517.jpeg",
+        "products": [
+          {
+            "id": 7,
+            "name": "Gauni la Sherehe",
+            "price": 4500,
+            "stockLevel": 8,
+            "description": "Elegant party dress perfect for special occasions.",
+            "image": "https://images.pexels.com/photos/994517/pexels-photo-994517.jpeg"
+          },
+          {
+            "id": 8,
+            "name": "Suruali za Wanaume",
+            "price": 2200,
+            "stockLevel": 15,
+            "description": "Slim-fit trousers for the modern man.",
+            "image": "https://images.pexels.com/photos/532588/pexels-photo-532588.jpeg"
+          },
+          {
+            "id": 9,
+            "name": "Vitenge vya Kipepeo",
+            "price": 1500,
+            "stockLevel": 3,
+            "description": "Colorful butterfly-print fabrics.",
+            "image": "https://images.pexels.com/photos/994517/pexels-photo-994517.jpeg"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "name": "Teknolojia Hapa",
+        "description": "An electronics store specializing in gadgets and accessories.",
+        "logo": "https://images.pexels.com/photos/1509534/pexels-photo-1509534.jpeg",
+        "products": [
+          {
+            "id": 10,
+            "name": "Simu ya Smart",
+            "price": 12000,
+            "stockLevel": 5,
+            "description": "The latest smartphone with top-notch features.",
+            "image": "https://images.pexels.com/photos/607812/pexels-photo-607812.jpeg"
+          },
+          {
+            "id": 11,
+            "name": "Kompyuta ya Kibao",
+            "price": 15000,
+            "stockLevel": 2,
+            "description": "High-performance tablet for work and entertainment.",
+            "image": "https://images.pexels.com/photos/1432675/pexels-photo-1432675.jpeg"
+          },
+          {
+            "id": 12,
+            "name": "Earbuds za Sauti",
+            "price": 3500,
+            "stockLevel": 0,
+            "description": "Noise-canceling wireless earbuds for music lovers.",
+            "image": "https://images.pexels.com/photos/373945/pexels-photo-373945.jpeg"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "name": "Vinywaji vya Asili",
+        "description": "A refreshing drink shop offering fresh juices and herbal teas.",
+        "logo": "https://images.pexels.com/photos/4320599/pexels-photo-4320599.jpeg",
+        "products": [
+          {
+            "id": 13,
+            "name": "Juisi ya Embe",
+            "price": 500,
+            "stockLevel": 20,
+            "description": "Fresh mango juice, made daily.",
+            "image": "https://images.pexels.com/photos/4320599/pexels-photo-4320599.jpeg"
+          },
+          {
+            "id": 14,
+            "name": "Chai ya Mchicha",
+            "price": 600,
+            "stockLevel": 10,
+            "description": "Herbal spinach tea for good health.",
+            "image": "https://images.pexels.com/photos/1417945/pexels-photo-1417945.jpeg"
+          },
+          {
+            "id": 15,
+            "name": "Juisi ya Ndizi",
+            "price": 550,
+            "stockLevel": 7,
+            "description": "Sweet banana juice with a tropical twist.",
+            "image": "https://images.pexels.com/photos/4887211/pexels-photo-4887211.jpeg"
+          }
+        ]
+      },
+      {
+        "id": "3530",
+        "name": "Georgeous",
+        "description": "C'est la boutique où l'on peut trouver la beauté",
+        "logo": "https://images.pexels.com/photos/2344267/pexels-photo-2344267.jpeg",
+        "products": [
+          {
+            "id": 1748276937992,
+            "name": "Joie de vivre",
+            "price": 5000,
+            "stockLevel": 50,
+            "description": "C'est la vie",
+            "image": "https://images.pexels.com/photos/1391397/pexels-photo-1391397.jpeg"
+          }
+        ]
+      },
+      {
+        "id": "2a74",
+        "name": "Shop Yangu",
+        "description": "Shop Yangu Description",
+        "logo": "https://images.pexels.com/photos/2344267/pexels-photo-2344267.jpeg"
+      }
+    ]
+  }
