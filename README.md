@@ -1,4 +1,4 @@
-# Shop Yangu Backend
+# ShopYangu Backend
 
 A lightweight JSON Server backend for managing shops and their products. This project provides a RESTful API for a shop management system, perfect for e-commerce applications and small business inventory management.
 
